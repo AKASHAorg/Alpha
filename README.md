@@ -2,10 +2,8 @@
 
 ![Alpha Stream](http://imgur.com/d9wqGUf.png)
 
-### Windows
-
-### Linux
-
-### Mac
-
 ### Feedback & Issues
+
+### A Special Note On AETH
+
+AETH is our test token on the private chain used for testing this pre-release. It does not have any value and we are not planning **any** ICO/crowdsales in the near future.
