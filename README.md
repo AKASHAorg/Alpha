@@ -1,8 +1,14 @@
 # AKASHA Alpha Pre-Release
 
-![Alpha Stream](http://imgur.com/d9wqGUf.png)
+> I didn't come here to tell you how this is going to end, I came here to tell you how this is going to begin.
+
+> Neo - The Matrix
+
+![Alpha Setup](http://imgur.com/zltm7vH.png)
 
 ### Feedback & Issues
+
+The Mac OS version is slightly less tested than the Linux and Windows versions so it might be more prone to errors than the other releases. That being said, all versions need more testing and could showcase bugs and errors. 
 
 The best thing to do in case you stumble upon a bug is to open a [GitHub issue](https://github.com/AkashaProject/Alpha/issues/new), attaching a screenshot and a copy of the logs describing the error. Moreover, a description of the steps required to reproduce the error would be fantastic!
 
