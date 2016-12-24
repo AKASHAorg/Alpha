@@ -18,3 +18,8 @@ On the other hand, if you have an idea that you’d like to share with us don’
 ### A Special Note On AETH (AKASHA ETH)
 
 AETH is our test token on the private chain used for this pre-release. As a test token it does not have any value outside the purpose of testing AKASHA. At this point, you can obtain AETH tokens by creating an identity on AKASHA.
+
+
+### FAQs
+
+A list of FAQs is being built [on this Wiki](https://github.com/AkashaProject/Alpha/wiki/FAQ) - make sure you check it in case you stumble upon a problem.
