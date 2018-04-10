@@ -1,4 +1,4 @@
-# AKASHA Alpha Pre-Release
+# The AKASHA alpha is outdated, please [check out the beta](https://github.com/AkashaProject/dapp/releases)!
 
 > I didn't come here to tell you how this is going to end, I came here to tell you how this is going to begin.
 
